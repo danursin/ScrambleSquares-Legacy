@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrambleSquares.App", "MilitaryPuzzle.App\ScrambleSquares.App.csproj", "{C5C0B0F6-6DBE-4E3B-A3FF-8637B538F7F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrambleSquares.Test", "MIlitaryPuzzle.Test\ScrambleSquares.Test.csproj", "{1DDCE9AE-D789-4154-A5AC-9365F37805C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C0B0F6-6DBE-4E3B-A3FF-8637B538F7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C0B0F6-6DBE-4E3B-A3FF-8637B538F7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C0B0F6-6DBE-4E3B-A3FF-8637B538F7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C0B0F6-6DBE-4E3B-A3FF-8637B538F7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDCE9AE-D789-4154-A5AC-9365F37805C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDCE9AE-D789-4154-A5AC-9365F37805C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDCE9AE-D789-4154-A5AC-9365F37805C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDCE9AE-D789-4154-A5AC-9365F37805C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
